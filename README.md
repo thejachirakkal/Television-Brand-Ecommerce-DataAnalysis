@@ -1,0 +1,1 @@
+This repository contains code and documentation for analyzing e-commerce data related to television brands. The goal of this project is to gain valuable insights into sales trends, and overall performance of television products on an e-commerce platform.
